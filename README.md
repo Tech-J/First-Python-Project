@@ -13,11 +13,11 @@ Then you'll need to upgrade your pip - This alows you to install your packages i
 
 Once you have that Installed Go-ahead and fork this repository
 
-  -CD into my-project
+  -CD into my_project
 
 run this command which will activate our vitual environment
 
-  -source my-project/bin/activate
+  -source my_project/bin/activate
 
 After the Virtual Environment has been activated you can start the game by running this command
 
