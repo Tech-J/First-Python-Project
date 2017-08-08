@@ -1,3 +1,5 @@
+import sys
+sys.path.insert(0, './lib/python3.6/site-packages')
 import GetQuestions
 import string
 import random

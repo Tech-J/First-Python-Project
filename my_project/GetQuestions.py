@@ -1,3 +1,5 @@
+import sys
+sys.path.insert(0, './lib/python3.6/site-packages')
 import requests
 import json
 class GetQuestions(object):
